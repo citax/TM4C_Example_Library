@@ -1,0 +1,6 @@
+"./main.obj"
+"./tm4c129encpdt_startup_ccs.obj"
+"./uartstdio.obj"
+"../tm4c129encpdt.cmd"
+-l"C:/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib"
+-llibc.a
